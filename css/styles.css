@@ -1,0 +1,123 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.32px;
+    color: #2E2F42;
+    background-color: #FFF;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 111.111%;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    text-align: center;
+}
+h3 {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: 0.4px;
+}
+header {
+    border-bottom: 1px solid #E7E9FC;
+}
+.nav-menu {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: 0.32px;
+}
+.header-menu:active {
+    color: #404BBF;
+}
+.header-logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 116.667%;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.header-logo-blue {
+    color: #4D5AE5;
+}
+.header-contacts {   
+    font-style: normal;
+    line-height: 150%;
+    letter-spacing: 0.32px;
+}
+.header-contacts:active {
+    color: #404BBF;
+}
+.section-1 {
+    background-color: #2E2F42;
+}
+.section-1 h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 107.143%;
+    letter-spacing: 1.12px;
+}
+.section-1 button {
+    border-radius: 4px;
+    background: #4D5AE5;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    color: #FFF;
+    font-weight: 500;
+    line-height: 150%;
+    letter-spacing: 0.64px;
+    cursor: pointer;
+}
+.section-1 button:hover {
+    background-color: #404BBF;
+}
+.section-3 {
+    background-color: #F4F4FD;
+}
+.section-3 li {
+    border-radius: 0px 0px 4px 4px;
+    background: #FFF;
+    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
+.section-3 h3,
+.section-3 p {
+    text-align: center;
+}
+.section-4 li {
+    border: 1px solid #E7E9FC;
+    background:#FFF;
+}
+footer {
+    background: #2E2F42;
+}
+.footer-logo {
+    color:#F4F4FD;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 116.667%;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+.footer-logo-blue {
+    color: #4D5AE5;
+}
+.footer-text {
+    color: #F4F4FD;
+}
