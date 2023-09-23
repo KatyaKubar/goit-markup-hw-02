@@ -14,7 +14,7 @@ a {
     text-decoration: none;
     color: inherit;
 }
-.headline-2 {
+h2 {
     font-size: 36px;
     color: #2e2f42;
     font-weight: 700;
@@ -23,7 +23,7 @@ a {
     text-transform: capitalize;
     text-align: center;
 }
-.headline-3 {
+h3 {
     font-size: 20px;
     color: #2E2F42;
     font-weight: 500;
@@ -68,10 +68,10 @@ a {
 .adress-link:focus {
     color: #404bbf;
 }
-.section-1 {
+.narrative {
     background-color: #2E2F42;
 }
-.headline-1 {
+.narrative-title {
     color: #FFF;
     text-align: center;
     font-family: Roboto;
@@ -81,7 +81,7 @@ a {
     line-height: 107.143%;
     letter-spacing: 1.12px;
 }
-.section-1 .btn {
+.narrative .btn {
     background: #4D5AE5;
     font-family: inherit;
     color: #FFF;
@@ -91,21 +91,21 @@ a {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.section-1 .btn:hover,
-.section-1 .btn:focus {
+.narrative .btn:hover,
+.narrative .btn:focus {
     background-color: #404BBF;
 }
-.section-3 {
+.team {
     background-color: #F4F4FD;
 }
-.section-3 li {
+.team li {
     background: #FFF;
 }
-.section-3 .headline-3,
-.section-3 .section-text {
+.team .subtitle,
+.team .section-text {
     text-align: center;
 }
-.section-4 .section-list-3 {
+.portfolio .subtitle {
     background:#FFF;
 }
 footer {
