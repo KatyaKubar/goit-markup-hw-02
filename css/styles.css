@@ -16,6 +16,7 @@ a {
 }
 h2 {
     font-size: 36px;
+    color: #2e2f42;
     font-weight: 700;
     line-height: 111.111%;
     letter-spacing: 0.72px;
@@ -63,10 +64,8 @@ h3 {
 .header-contacts:active {
     color: #404BBF;
 }
-.adress-mail:hover,
-.adress-mail:focus,
-.adress-tel:hover,
-.adress-tel:focus {
+.adress-link:hover,
+.adress-link:focus {
     color: #404bbf;
 }
 .section-1 {
