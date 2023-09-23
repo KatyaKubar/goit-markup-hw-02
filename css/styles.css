@@ -14,7 +14,7 @@ a {
     text-decoration: none;
     color: inherit;
 }
-h2 {
+.headline-2 {
     font-size: 36px;
     color: #2e2f42;
     font-weight: 700;
@@ -23,7 +23,7 @@ h2 {
     text-transform: capitalize;
     text-align: center;
 }
-h3 {
+.headline-3 {
     font-size: 20px;
     color: #2E2F42;
     font-weight: 500;
